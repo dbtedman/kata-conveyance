@@ -39,6 +39,33 @@ make format
 
 ## Design
 
+### Submission Scenario
+
+-   User visits submission page
+-   User selects file to upload
+-   User enters required metadata
+    -   Name
+    -   Email
+    -   Select presentation slot?
+-   User submits
+
+### Approval Scenario
+
+-   Approver notified of submission
+-   Approver reviews submission
+-   Approver accepts or rejects submission
+-   System replies to requester
+
+### Approved Submission RSS Feed
+
+Approved submissions are available via a RSS feed for easy integration with other systems.
+
+### Uploaded File Hosting
+
+_Placeholder_
+
+### Uploaded File Processing
+
 _Placeholder_
 
 ### Security Mitigations
